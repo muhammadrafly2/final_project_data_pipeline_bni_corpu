@@ -160,7 +160,7 @@ open http://localhost:8082
 
 ---
 
-## Analytical query:
+## Data Engineer Final Project Analytical queries:
 1. Transaction analytics
 Total volume and transaction value per day, week, and month.
 sql file: ./include/sql/banking_dw/transaction_analytics.sql
