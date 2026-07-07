@@ -163,27 +163,27 @@ open http://localhost:8082
 ## Data Engineer Final Project Analytical queries:
 1. Transaction analytics
 Total volume and transaction value per day, week, and month.
-sql file: ./include/sql/banking_dw/transaction_analytics.sql
+sql file: ./final_project_sql_query/transaction_analytics.sql
 
 2. Customer 360
 Most active customers based on frequency and value, & distribution per segment.
-sql file: ./include/sql/banking_dw/customer_360.sql
+sql file: ./final_project_sql_query/customer_360.sql
 
 3. Branch Performance
 Highest performing branches based on transactions and value per region.
-sql file: ./include/sql/banking_dw/branch_performance.sql
+sql file: ./final_project_sql_query/branch_performance.sql
 
 4. Channel Analysis
 Most used channels and migration trends to digital.
-sql file: ./include/sql/banking_dw/channel_analysis.sql
+sql file: ./final_project_sql_query/channel_analysis.sql
 
 5. Product Performance
 Account products generating highest volume and average balance.
-sql file: ./include/sql/banking_dw/product_performance.sql
+sql file: ./final_project_sql_query/product_performance.sql
 
 6. Risk & Fraud Detection
 Anomalous transactions and identified frauds.
-sql file: ./include/sql/banking_dw/risk_n_fraud_detection.sql
+sql file: ./final_project_sql_query/risk_n_fraud_detection.sql
 
 ---
 
